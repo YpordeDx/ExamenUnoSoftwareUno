@@ -1,0 +1,7 @@
+C:\Users\yurym\source\repos\ExamenUnoSoftwareUno\SumaAppPrueba\obj\Debug\PromedioAppPrueba.csprojResolveAssemblyReference.cache
+C:\Users\yurym\source\repos\ExamenUnoSoftwareUno\SumaAppPrueba\obj\Debug\PromedioAppPrueba.csproj.CoreCompileInputs.cache
+C:\Users\yurym\source\repos\ExamenUnoSoftwareUno\SumaAppPrueba\bin\Debug\PromedioAppPrueba.exe.config
+C:\Users\yurym\source\repos\ExamenUnoSoftwareUno\SumaAppPrueba\bin\Debug\PromedioAppPrueba.exe
+C:\Users\yurym\source\repos\ExamenUnoSoftwareUno\SumaAppPrueba\bin\Debug\PromedioAppPrueba.pdb
+C:\Users\yurym\source\repos\ExamenUnoSoftwareUno\SumaAppPrueba\obj\Debug\PromedioAppPrueba.exe
+C:\Users\yurym\source\repos\ExamenUnoSoftwareUno\SumaAppPrueba\obj\Debug\PromedioAppPrueba.pdb
